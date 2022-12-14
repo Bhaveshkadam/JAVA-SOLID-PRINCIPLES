@@ -7,7 +7,7 @@ A CLASS SHOULD HAVE ONE, AND ONLY ONE REASON TO CHANGE.
 
 This means when we design our classes, we need to ensure that our class is responsible only for 1 task or functionality and when there is a change in that task/functionality, only then, that class should change.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="readme-top">back to top</a>)</p>
 
 
 <!-- Benefits of Single Responsibility Principle -->
@@ -18,7 +18,7 @@ This means when we design our classes, we need to ensure that our class is respo
 * Onboarding new members are easy, and they can start contributing much faster.
 * Testing and writing test cases is much simpler
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="readme-top">back to top</a>)</p>
 
 <!-- Code Explanation-->
 
@@ -32,4 +32,4 @@ For example, the bill calculation logic might require some kind of lookup functi
 
 If the functionality of bill calculation, as well as order delivery, was added in the same class, then that class gets modified whenever the bill calculation logic or the delivery agent logic needs to change; which goes against the Single Responsibility Principle.  As per the example, we have a separate class for handling each of these functions. Any single business requirement change should ideally have an impact on only one class, thus catering to the Single Responsibility Principle.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="readme-top">back to top</a>)</p>
