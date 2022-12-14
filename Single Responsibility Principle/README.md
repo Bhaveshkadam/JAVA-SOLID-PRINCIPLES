@@ -1,9 +1,9 @@
 <!-- Single Responsibility Principle -->
 # Single Responsibility Principle
 
-  ```sh
-A CLASS SHOULD HAVE ONE, AND ONLY ONE REASON TO CHANGE. 
- ```
+
+> **A CLASS SHOULD HAVE ONE, AND ONLY ONE REASON TO CHANGE.**
+
 
 This means when we design our classes, we need to ensure that our class is responsible only for 1 task or functionality and when there is a change in that task/functionality, only then, that class should change.
 
