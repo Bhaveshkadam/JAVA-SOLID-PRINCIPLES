@@ -1,1 +1,1 @@
-# open closed Principle
+# Open Closed Principle
