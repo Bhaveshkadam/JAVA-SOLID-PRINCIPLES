@@ -7,4 +7,7 @@ Learn about OOPs SOLID Principles.
 
 - [**Liskov Substitution Principle**](https://github.com/Bhaveshkadam/JAVA-SOLID-PRINCIPLES/tree/main/Liskov%20Substitution%20principle)
 
+- [**Interface Segregation Principle**](https://github.com/Bhaveshkadam/JAVA-SOLID-PRINCIPLES/tree/main/Interface%20Segregation%20Principle)
+
+
 
