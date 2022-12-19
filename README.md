@@ -10,4 +10,6 @@ Learn about OOPs SOLID Principles.
 - [**Interface Segregation Principle**](https://github.com/Bhaveshkadam/JAVA-SOLID-PRINCIPLES/tree/main/Interface%20Segregation%20Principle)
 
 
+- [**Dependency Inversion Principle**](https://github.com/Bhaveshkadam/JAVA-SOLID-PRINCIPLES/tree/main/Dependency%20Inversion%20Principle)
+
 
